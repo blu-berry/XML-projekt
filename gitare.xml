@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="guitars.xsl"?>
+<guitars>
+    <guitar>
+        <name>Les Paul</name>
+        <image>lespaul.jpg</image>
+        <year>1952</year>
+        <creator>Gibson</creator>
+        <description>Populariziran od strane Jimmy Pagea, ovaj model je čest u rock žanru.</description>
+    </guitar>
+    <guitar>
+        <name>SG</name>
+        <image>sg.jpg</image>
+        <year>1961</year>
+        <creator>Gibson</creator>
+        <description>Korišten od strane Angusa Younga iz AC/DC, poznat po rocku i hard rocku.</description>
+    </guitar>
+    <guitar>
+        <name>Stratocaster</name>
+        <image>stratocaster.jpg</image>
+        <year>1954</year>
+        <creator>Fender</creator>
+        <description>Omiljen od strane Jimi Hendrixa, često korišten u bluesu i rocku.</description>
+    </guitar>
+    <guitar>
+        <name>Telecaster</name>
+        <image>telecaster.jpg</image>
+        <year>1950</year>
+        <creator>Fender</creator>
+        <description>Omiljen od strane Bruce Springsteena, popularan u country i rocku.</description>
+    </guitar>
+    <guitar>
+        <name>Flying V</name>
+        <image>flyingv.jpg</image>
+        <year>1958</year>
+        <creator>Gibson</creator>
+        <description>Korišten od strane Albert Kinga, čest u bluesu i heavy metalu.</description>
+    </guitar>
+    <guitar>
+        <name>Explorer</name>
+        <image>explorer.jpg</image>
+        <year>1958</year>
+        <creator>Gibson</creator>
+        <description>Korišten od strane James Hetfielda iz Metallice, popularan u heavy metalu.</description>
+    </guitar>
+</guitars>
